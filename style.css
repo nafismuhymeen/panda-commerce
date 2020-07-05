@@ -1,0 +1,39 @@
+.bg-color{
+    background-color: #feeae9;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: firebrick;
+}
+.container{
+    margin-bottom: 80px;
+}
+.cat1{
+    margin-bottom: 10px;
+    border-radius: 8px;
+    padding: 5px 20px;
+    background-color: #4dccc6;
+    background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
+}
+.cat2{
+    margin-bottom: 10px;
+    border-radius: 8px;
+    padding: 5px 20px;
+    background: linear-gradient(to right, #f12711, #f5af19);
+}
+.cat3{
+    margin-bottom: 10px;
+    border-radius: 8px;
+    padding: 5px 20px;
+    background: linear-gradient(to right, #4e54c8, #8f94fb);
+}
+.catg h1{
+    color: white;
+}
+.catg img{
+    width: 125px;
+}
+
